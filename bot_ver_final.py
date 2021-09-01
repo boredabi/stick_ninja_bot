@@ -1,5 +1,5 @@
 
-# max points - 80
+# max points under 120s - 80
 
 
 from pyautogui import pixelMatchesColor, mouseDown, mouseUp
